@@ -1,5 +1,3 @@
-# Решението не е мое!
-
 length = float(input())
 width = float(input())
 
