@@ -32,7 +32,7 @@ if mobile_data == "yes":
         price += 3.85
 
 if contract_duration == "two":
-    price = price * 0.9625  # price - price * 0.0375
+    price = price * 0.9625  # price = price * 0.0375
 
 total_price = price * months_to_pay
 print(f"{total_price:.2f} lv.")
