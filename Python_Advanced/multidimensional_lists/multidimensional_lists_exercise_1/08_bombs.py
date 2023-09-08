@@ -1,5 +1,3 @@
-# Решението е на лектора!
-
 def is_inside(row, col, size):
     return 0 <= row < size and 0 <= col < size
 
