@@ -1,5 +1,3 @@
-# Решението е на лектора!
-
 def get_next_pos(row, col, command):
     if command == 'U':
         return row - 1, col
