@@ -1,5 +1,3 @@
-# Решението е на лектора!
-
 def get_next_pos(direction, row, col, steps):
     if direction == "up":
         return row - steps, col
